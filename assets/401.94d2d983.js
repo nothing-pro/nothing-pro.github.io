@@ -1,0 +1,1 @@
+import{_ as r}from"./index.9d79043f.js";import{o as t,c as e}from"./vendor.8a3485b9.js";const o={class:"flex flex-col items-center justify-center text-white h-full bg-gradient-to-tl from-primary-500 via-primary-800 to-primary-900"};var a=r({},[["render",function(r,a){return t(),e("section",o," 401 ")}]]);export{a as default};
